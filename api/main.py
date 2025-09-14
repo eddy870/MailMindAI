@@ -435,8 +435,17 @@ async def get_ml_model_status(db: Session = Depends(get_db)):
         raise HTTPException(status_code=500, detail=f"Error getting ML model status: {str(e)}")
 
 @app.get("/health")
-async def health_check(db: Session = Depends(get_db)):
-    """Health check endpoint with database status"""
+async def health_check():
+    """Simple health check endpoint"""
+    return {
+        "status": "healthy",
+        "service": "mailmind-ai-api",
+        "timestamp": datetime.now().isoformat()
+    }
+
+@app.get("/health/detailed")
+async def detailed_health_check(db: Session = Depends(get_db)):
+    """Detailed health check endpoint with database status"""
     openai_status = "configured" if os.getenv("OPENAI_API_KEY") and os.getenv("OPENAI_API_KEY") != "your_openai_api_key_here" else "not configured"
     
     # Check database connection and get stats

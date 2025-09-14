@@ -71,28 +71,22 @@ mailmind-ai/
 git clone https://github.com/AceAtDev/MailMindAI.git
 ```
 
-### 2️⃣ Backend Setup
+### **Backend Setup**
 ```bash
 cd backend
 pip install -r requirements.txt
+python main.py # This will spin off the backend
+```
 
-### 1️⃣ **Try the Live Demo**
-Visit **[https://mailmindai-eta.vercel.app](https://mailmindai-eta.vercel.app)** for the full experience!
 
-### 2️⃣ **Local Development**
+###  **Local Development**
 
 **Clone and Install:**
 ```bash
-git clone https://github.com/AceAtDev/MailMindAI.git
-
 # Frontend setup
 cd frontend
 npm install
-npm run build
-
-# Backend setup  
-cd ../api
-pip install -r requirements.txt
+npm start
 ```
 
 **Environment Setup:**
@@ -237,9 +231,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Made with ❤️ for email marketers who want to optimize their campaigns with AI**
 
-> 🔗 **Live Demo**: [Your deployed URL here]
-> 
-> 📧 **Questions?** Open an issue or reach out!
+> 📧 **Questions?** Open an issue or reach out! @ aceatdeveloping@gmail.com
 
 - **🔄 Fallback Mode**: Works with or without OpenAI API key
 

